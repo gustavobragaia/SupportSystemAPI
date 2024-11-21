@@ -1,0 +1,12 @@
+{
+  "name": "supportsystemapi",
+  "version": "1.0.0",
+  "description": "Management of support tickets API",
+  "main": "src/server.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  },
+  "author": "Gustavo Bragaia",
+  "license": "ISC"
+}
