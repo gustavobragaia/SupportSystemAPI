@@ -52,12 +52,19 @@ export class Database {
         if(rowIndex > -1){
             this.#database[table][rowIndex] = {
                 ...this.#database[table][rowIndex],
-                ...data
+                ...data,
             }
 
             this.#persist()
         }
+    }
 
-        console.log(rowIndex)
+    delete(table, id){
+        const rowIndex = this.#database[table].findIndex((row) => row.id ===id)
+
+        if(rowIndex > -1){
+            this.#database[table].splice(rowIndex, 1)
+            this.#persist()
+        }
     }
 }
