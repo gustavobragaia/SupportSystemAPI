@@ -1,12 +1,11 @@
 {
     "tickets": [{
         "id": "5d51338e-f3b5-4624-b629-726136f757fe",
-        "equipment": "PC",
-        "description": "Computador nao liga",
+        "equipment": "SNIGGUERS",
         "user_name": "Gustavo",
         "status": "closed",
         "created_at": "2024-11-21T02:18:06.506Z",
-        "updated_at": "2024-11-21T02:18:06.506Z"
+        "updated_at": "2024-11-21T05:43:57.434Z"
     }, {
         "id": "c9afca71-a787-4057-83fd-03bb5a2c6530",
         "equipment": "Punhetinha",
@@ -23,5 +22,13 @@
         "status": "open",
         "created_at": "2024-11-21T04:27:37.342Z",
         "updated_at": "2024-11-21T04:27:37.342Z"
+    }, {
+        "id": "d946f1ef-f58c-4e5b-8c2e-f19dbae42a28",
+        "equipment": "Punhetinha",
+        "description": "Comi o cu dela",
+        "user_name": "Jailson Mendes",
+        "status": "open",
+        "created_at": "2024-11-21T05:07:48.808Z",
+        "updated_at": "2024-11-21T05:07:48.808Z"
     }]
 }
