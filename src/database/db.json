@@ -4,16 +4,24 @@
         "equipment": "PC",
         "description": "Computador nao liga",
         "user_name": "Gustavo",
-        "status": "open",
+        "status": "closed",
         "created_at": "2024-11-21T02:18:06.506Z",
         "updated_at": "2024-11-21T02:18:06.506Z"
     }, {
-        "id": "9137e9c2-a959-48b7-a665-e980cdb5c4d6",
+        "id": "c9afca71-a787-4057-83fd-03bb5a2c6530",
         "equipment": "Punhetinha",
         "description": "Comi o cu dela",
         "user_name": "Jailson Mendes",
         "status": "open",
-        "created_at": "2024-11-21T02:24:29.283Z",
-        "updated_at": "2024-11-21T02:24:29.283Z"
+        "created_at": "2024-11-21T04:27:35.892Z",
+        "updated_at": "2024-11-21T04:27:35.892Z"
+    }, {
+        "id": "ef82c492-4137-4e07-8962-69dab0901e15",
+        "equipment": "Punhetinha",
+        "description": "Comi o cu dela",
+        "user_name": "Jailson Mendes",
+        "status": "open",
+        "created_at": "2024-11-21T04:27:37.342Z",
+        "updated_at": "2024-11-21T04:27:37.342Z"
     }]
 }
